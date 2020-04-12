@@ -1,0 +1,34 @@
+body {
+    background-color: #000839;
+    text-align: center;
+    font-family: "Arial";
+}
+
+.title {
+    color: #FFF;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.center-form {
+    padding-top: 30px;
+    margin: auto;
+    height: 500px;
+    width: 500px;
+    background-color: #faf4f4;
+}
+
+form label {
+    position: relative;
+    top: 30%;
+    font-size: 30px;
+}
+
+form input {
+    position: relative;
+    top: 30%;
+}
+
+.login {
+    margin-top: 15px;
+}
